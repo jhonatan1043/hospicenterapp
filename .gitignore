@@ -6,7 +6,6 @@
 /vendor
 /.dea
 /.vscode
-/public
 .env
 .env.backup
 .phpunit.result.cache
