@@ -8,10 +8,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="keyword" content="">
-    <link rel="shortcut icon" href="img/logo_color.jpeg">
+    <link rel="shortcut icon" href="img/logo.png">
     <!-- Id for Channel Notification -->   
     <meta name="userId" content="{{ Auth::check() ? Auth::user()->id : ''}}">  
-    <title>Clinica san ignacio</title>
+    <title>HospiCenter</title>
     <meta name="csrf-token" content="{{ csrf_token() }}"> 
     <!-- Icons -->
     <link href="css/plantilla.css" rel="stylesheet">

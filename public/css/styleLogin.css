@@ -1,10 +1,10 @@
 body{
-    background:url(../img/Fondo2.jpg) center;
+    background:url(../img/Fondo2.png) center;
     background-size: cover;
 }
 
 input{
-    border-bottom: 1px solid #05851a !important;
+    border-bottom: 1px solid #AEB6BF !important;
 }
 
 .login-box-body{
